@@ -1,0 +1,1 @@
+This is just trial of web scraping as of now, I might do some good project with it later
