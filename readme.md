@@ -1,1 +1,1 @@
-This is just trial of web scraping as of now, I might do some good project with it later
+This web scraper will go to mangato to collect latest manga's titles and store it in a text file
